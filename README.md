@@ -1,9 +1,9 @@
-
 ## 💻 Sobre o projeto
 
 ♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
+<img src="web/src/assets/home-background.svg" width="35%" align="right" />
 - uma imagem do ponto de coleta
 - nome da entidade, email e whatsapp
 - e o endereço para que ele possa aparecer no mapa
